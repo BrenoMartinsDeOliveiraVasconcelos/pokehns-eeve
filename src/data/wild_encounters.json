@@ -27855,6 +27855,11 @@
             "encounter_rate": 21,
             "mons": [
               {
+                "min_level": 5,
+                "max_level": 5,
+                "species": "SPECIES_EEVEE"
+              },
+              {
                 "min_level": 3,
                 "max_level": 3,
                 "species": "SPECIES_PIDGEY"
