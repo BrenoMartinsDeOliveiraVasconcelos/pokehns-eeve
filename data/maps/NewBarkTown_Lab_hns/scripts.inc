@@ -714,7 +714,11 @@ NewBarkTown_Lab_Text_ElmChooseAPokemon:
 	.string "the POKéMON contained in these BALLS.\p"
 	.string "You'll be that POKéMON's\n"
 	.string "first partner, {PLAYER}!\p"
-	.string "Go on. Pick one!$"
+	.string "Go on. Pick one!\p"
+	.string "But first, ummm...\n"
+	.string "I'm out of starters.\p"
+	.string "But you can pick any of these Eeves\n"
+	.string "I found on route 29.$"
 
 NewBarkTown_Lab_Text_ElmWhereGoing:
 	.string "ELM: Wait! Where are you\n"
