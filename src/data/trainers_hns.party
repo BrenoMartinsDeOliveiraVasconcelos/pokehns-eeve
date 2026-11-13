@@ -9439,6 +9439,10 @@ Mugshot: Dark Red
 Leafeon
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Tackle
+- Growl
+- Tail Whip
+- Sand Attack
 
 === TRAINER_RIVAL_CHIKORITA_2_HNS ===
 Name: {B_RIVAL_NAME}
@@ -9470,9 +9474,9 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Leafeon
 Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Razor Leaf
-- Reflect
-- Poison Powder
+- Quick Attack
+- Baby-Doll Eyes
+- Sand Attack
 - Tackle
 
 === TRAINER_RIVAL_CHIKORITA_3_HNS ===
@@ -9513,10 +9517,10 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Leafeon
 Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Mega Drain
-- Magical Leaf
-- Tackle
 - Leech Seed
+- Quick Attack
+- Baby-Doll Eyes
+- Sand Attack
 
 === TRAINER_RIVAL_CHIKORITA_4_HNS ===
 Name: {B_RIVAL_NAME}
@@ -9564,10 +9568,10 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 Leafeon
 Level: 40
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
+- Giga Drain
+- Sunny Day
 - Synthesis
 - Magical Leaf
-- Sunny Day
-- Body Slam
 
 === TRAINER_RIVAL_CHIKORITA_5_HNS ===
 Name: {B_RIVAL_NAME}
@@ -9615,10 +9619,10 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 Leafeon @ Miracle Seed
 Level: 47
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Play Rough
-- Petal Dance
-- Petal Blizzard
-- Poison Powder
+- Swords Dance
+- Giga Drain
+- Sunny Day
+- Synthesis
 
 Tyranitar
 Level: 48
@@ -9674,10 +9678,10 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Leafeon @ Miracle Seed
 Level: 64
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Synthesis
-- MoonBlast
-- Petal Blizzard
-- Body Slam
+- Leaf Blade
+- Last Resort
+- Swords Dance
+- Giga Drain
 
 Tyranitar @ Quick Claw
 Level: 64
@@ -9733,10 +9737,10 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Leafeon @ Miracle Seed
 Level: 68
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Reflect
+- Leaf Blade
+- Last Resort
+- Swords Dance
 - Giga Drain
-- Solar Beam
-- Body Slam
 
 Tyranitar @ Quick Claw
 Level: 68
@@ -9759,6 +9763,10 @@ Mugshot: Dark Red
 Flareon
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Ember
+- Tackle
+- Growl
+- Sand Attack
 
 === TRAINER_RIVAL_CYNDAQUIL_2_HNS ===
 Name: {B_RIVAL_NAME}
@@ -9790,10 +9798,10 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Flareon
 Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Leer
-- Smokescreen
 - Ember
-- Tackle
+- Quick Attack
+- Baby-Doll Eyes
+- Sand Attack
 
 === TRAINER_RIVAL_CYNDAQUIL_3_HNS ===
 Name: {B_RIVAL_NAME}
@@ -9833,10 +9841,10 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Flareon
 Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Flame Wheel
-- Dig
+- Ember
+- Smog
 - Quick Attack
-- Smokescreen
+- Baby-Doll Eyes
 
 === TRAINER_RIVAL_CYNDAQUIL_4_HNS ===
 Name: {B_RIVAL_NAME}
@@ -9884,10 +9892,10 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 Flareon
 Level: 40
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Thunder Punch
-- Flamethrower
-- Quick Attack
-- Iron Tail
+- Lava Plume
+- Fire Spin
+- Fire Fang
+- Bite
 
 === TRAINER_RIVAL_CYNDAQUIL_5_HNS ===
 Name: {B_RIVAL_NAME}
@@ -9935,10 +9943,10 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 Flareon @ Charcoal
 Level: 47
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Flamethrower
-- Quick Attack
-- Iron Tail
-- Thunder Punch
+- Flare Blitz
+- Last Resort
+- Lava Plume
+- Fire Fang
 
 Tyranitar
 Level: 48
@@ -9994,10 +10002,10 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Flareon @ Charcoal
 Level: 64
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fire Blast
-- Earthquake
-- Iron Tail
-- Thunder Punch
+- Flare Blitz
+- Last Resort
+- Lava Plume
+- Fire Fang
 
 Tyranitar @ Quick Claw
 Level: 64
@@ -10053,10 +10061,10 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Flareon @ Charcoal
 Level: 68
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Fire Blast
-- Earthquake
-- Iron Tail
-- Thunder Punch
+- Flare Blitz
+- Last Resort
+- Lava Plume
+- Fire Fang
 
 Tyranitar @ Quick Claw
 Level: 68
@@ -10079,6 +10087,10 @@ Mugshot: Dark Red
 Vaporeon
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Water Gun
+- Tackle
+- Growl
+- Sand Attack
 
 === TRAINER_RIVAL_TOTODILE_2_HNS ===
 Name: {B_RIVAL_NAME}
@@ -10110,10 +10122,10 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Vaporeon
 Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Scratch
-- Rage
-- Bubble Beam
-- Leer
+- Water Gun
+- Water Pulse
+- Quick Attack
+- Sand Attack
 
 === TRAINER_RIVAL_TOTODILE_3_HNS ===
 Name: {B_RIVAL_NAME}
@@ -10153,10 +10165,10 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Vaporeon
 Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-- Bite
-- Ice Punch
-- Bubble Beam
-- Mud Slap
+- Water Pulse
+- Haze
+- Quick Attack
+- Baby-Doll Eyes
 
 === TRAINER_RIVAL_TOTODILE_4_HNS ===
 Name: {B_RIVAL_NAME}
@@ -10204,10 +10216,10 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 Vaporeon
 Level: 40
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Ice Punch
-- Surf
-- Slash
-- Bite
+- Muddy Water
+- Aqua Ring
+- Aurora Beam
+- Water Pulse
 
 === TRAINER_RIVAL_TOTODILE_5_HNS ===
 Name: {B_RIVAL_NAME}
@@ -10255,10 +10267,10 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 Vaporeon @ Mystic Water
 Level: 47
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Ice Punch
-- Surf
-- Slash
-- Bite
+- Acid Armor
+- Muddy Water
+- Aqua Ring
+- Aurora Beam
 
 Tyranitar
 Level: 48
@@ -10314,10 +10326,10 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Vaporeon @ Scope Lens
 Level: 64
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Ice Beam
-- Surf
-- Slash
-- Earthquake
+- Hydro Pump
+- Acid Armor
+- Muddy Water
+- Aqua Ring
 
 Tyranitar @ Quick Claw
 Level: 64
@@ -10373,10 +10385,10 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Vaporeon @ Scope Lens
 Level: 68
 IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-- Ice Beam
-- Surf
-- Slash
-- Earthquake
+- Hydro Pump
+- Acid Armor
+- Muddy Water
+- Aqua Ring
 
 Tyranitar @ Quick Claw
 Level: 68
