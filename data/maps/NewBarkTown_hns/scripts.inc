@@ -246,8 +246,9 @@ NewBarkTown_Text_LassState2:
 	.string "Wait, {PLAYER}!\p"
 	.string "It's dangerous to go out\n"
 	.string "without a POKéMON!\p"
-	.string "Wild POKéMON jump out of the grass\n"
-	.string "on the way to the next town.$"
+	.string "There's some wild Eeves around\n"
+	.string "that aren't supposed to be there.\p"
+	.string "Invasive species can be dangerous.$"
 
 NewBarkTown_Text_LassState3:
 	.string "Oh! Your POKéMON is adorable!\n"
